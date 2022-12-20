@@ -1,0 +1,7 @@
+tpacking_tipebox
+tpacking_kodedus
+tpacking_batch
+tpacking_kodedus
+tpacking_datetime
+tpacking_qty
+tpacking_pic
